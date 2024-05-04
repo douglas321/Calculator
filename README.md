@@ -23,7 +23,7 @@ Math Library: Contains functions for mathematical operations, such as trigonomet
 
 - [Programiz (online compiler)](http://url.link.goes.here](https://www.programiz.com/cpp-programming/online-compiler/))
 - [Visual Studio Code (Set up environment)](http://url.link.goes.here](https://code.visualstudio.com/docs/languages/cpp))
-- [W3 Schools](https://www.w3schools.com/cpp/default.asp))
+- [W3 Schools](https://www.w3schools.com/cpp/default.asp)
 
 # Future Work
 
