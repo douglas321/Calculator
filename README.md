@@ -4,7 +4,7 @@ To further my learning as a software engineer I created this simple in-terminal 
 
 This project is a simple to use in-terminal calculater that utilizes the advantages of classes to make the software easily upgradable. The calculator is capable of calcuating the four simple math operations as well as saving a calculation history.
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/EYAAcwrmQX4))
+[Software Demo Video](http://youtube.link.goes.here](https://youtu.be/EYAAcwrmQX4))
 
 # Development Environment
 
