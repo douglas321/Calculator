@@ -9,18 +9,19 @@
 // class declaration for Operations
 class Operations {
 public:
+    //add two numbers together
     double add(double a, double b) {
         return a + b;
     }
-
+    //subtract two numbers
     double subtract(double a, double b) {
         return a - b;
     }
-
+    //multiply two numbers
     double multiply(double a, double b) {
         return a * b;
     }
-
+    //divide two numbers
     double divide(double a, double b) {
         if (b == 0) {
             std::cout << "Error! Division by zero.\n";
@@ -47,7 +48,7 @@ public:
             std::cout << "Unable to open file for writing history." << std::endl;
         }
     }
-
+    //read last five lines of calculation history and display to terminal
     static void readHistory() {
         std::ifstream file("calculation_history.txt");
         std::vector<std::string> lines;
@@ -111,6 +112,7 @@ int main() {
     return 0;
 }
 
+//perform operations based on choice, display result, add result to history
 void Calculate(int choice) {
     Operations operate;
     double result;
